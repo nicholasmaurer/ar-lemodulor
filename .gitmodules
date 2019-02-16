@@ -1,0 +1,3 @@
+[submodule "arcore-arkit-vuforia"]
+	path = Assets/arcore-arkit-vuforia
+	url = git@github.com:personalitychamp/arcore-arkit-vuforia.git
